@@ -2,9 +2,11 @@
 Clasificatorio hackathon 2022
 
 Background
+
 Nuwefruit es una startup que busca revolucionar los hábitos de la población fomentando el cosumo de fruta a diario. Por este motivo, la empresa está especializada en la venta de fruta a domicilio, que gracias a su algoritmo de optimización de la última milla le permite tener unos costes logisticos muy bajos. Esto permite que Nuwefruit pueda vender fruta a un precio inferior al de su competencia. Su catálogo se basa en la venta de más de 20 tipos de frutas, que son las que presentan las mejores propiedades nutritivas.
 
 Overview: the dataset and challenge
+
 Se emplearan dos datasets: el primero contiene datos de los clientes de Nuwefruit y el otro contiene los datos de los pedidos realizados por estos.
 
 El dataset de clientes 'CLIENT TABLE' contiene las siguientes variables:
